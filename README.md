@@ -19,11 +19,11 @@
 ![CloudFoundry](https://img.shields.io/badge/CloudFoundry-FF6C37?style=for-the-badge&logo=CloudFoundry&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazons3-FF6C37?style=for-the-badge&logo=amazon&logoColor=white)
 
-## 🤍 G59 🖤
-
 <div align="center">
 <img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api?username=BigT-Dev&theme=tokyonight" />
 <img style="vertical-align: middle;" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BigT-Dev&theme=tokyonight" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BigT-Dev&hide_border=true&background=00000000&currStreakNum=C3D1D9&theme=github-dark-blue" alt="BigT-Dev" />
 </div>
 </p>
+
+## 🤍 G59 🖤
