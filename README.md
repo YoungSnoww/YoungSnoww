@@ -30,11 +30,14 @@ A dude who loves coding. G59 🤍🖤
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react" alt="React Native" />
 </p>
+
 ## 🧰 Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible" alt="Ansible" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ## ⚡ Fields of Interest
