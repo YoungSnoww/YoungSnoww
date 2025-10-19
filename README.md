@@ -1,6 +1,6 @@
 # YungSnoww
 
-🎓 Student at Epitech - University of Kent MSc Artificial Intelligence
+🎓 Student at Epitech - Obtained a Master of Science in Artificial Intellige with a Distinction at the University of Kent.
 
 A dude who loves coding. G59 🤍🖤
 
@@ -47,6 +47,7 @@ A dude who loves coding. G59 🤍🖤
 - App Development
 
 ## 💼 Work Experience
+- Data Analyst at Better World
 - FullStack Developer at Orange Business Services
 - Freelance (Fullstack)
 - Research and Development Engineer at Alphalink
