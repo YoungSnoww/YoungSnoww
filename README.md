@@ -1,6 +1,6 @@
 # YungSnoww
 
-🎓 Student at Epitech - Obtained a Master of Science in Artificial Intellige with a Distinction at the University of Kent.
+🎓 Student at Epitech - Obtained a Master of Science in Artificial Intelligence with a Distinction at the University of Kent.
 
 A dude who loves coding. G59 🤍🖤
 
