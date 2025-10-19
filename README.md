@@ -1,4 +1,4 @@
-# YungSnoww
+# YoungSnoww
 
 🎓 Student at Epitech - Obtained a Master of Science in Artificial Intelligence with a Distinction at the University of Kent.
 
