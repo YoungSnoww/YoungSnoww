@@ -13,7 +13,6 @@
 - Created a **benchmark comparing ML (Regression, RandomForest) and DL (ANN) models** to predict League of Legends match outcomes.
 
 
-Here’s how you can add a dedicated **Education** section to your GitHub profile, incorporating your degrees and key projects:
 
 ---
 
